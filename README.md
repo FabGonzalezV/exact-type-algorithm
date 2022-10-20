@@ -1,2 +1,2 @@
  
-#exasutive algorithm to calculate square root of n
+# exasutive algorithm to calculate square root of n
