@@ -9,4 +9,4 @@ This method is exhaustive meaning that result is calculated in each iteration fr
 
 - the second method
 
-is similar to the first but a range of evaluation
+is similar to the first but with a range of evaluation
